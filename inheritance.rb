@@ -1,4 +1,4 @@
-#tạo hai class animal và rabit,tiger
+#tạo hai class animal và rabbit,tiger
 # mỗi class có 1 attribute là name, color, 2 method eat và run. trong method 
 class Animal 
 	attr_reader :name 
